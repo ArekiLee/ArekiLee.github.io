@@ -4,6 +4,63 @@
   
     
     <entry>
+      <title>日常生活分类例文</title>
+      <link href="/posts/6c6b907f.html"/>
+      <url>/posts/6c6b907f.html</url>
+      
+        <content type="html"><![CDATA[<p>这是生活日常分类例文</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活日常 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>摄影分类例文</title>
+      <link href="/posts/2930152c.html"/>
+      <url>/posts/2930152c.html</url>
+      
+        <content type="html"><![CDATA[<p>这是摄影分类例文</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 摄影 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>开发分类例文</title>
+      <link href="/posts/d25cdecd.html"/>
+      <url>/posts/d25cdecd.html</url>
+      
+        <content type="html"><![CDATA[<p>开发分类例文</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello word&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>伊始</title>
       <link href="/posts/5fc129b0.html"/>
       <url>/posts/5fc129b0.html</url>
