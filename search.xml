@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>gitpage博客图床方法</title>
+      <link href="/posts/12da5a1b.html"/>
+      <url>/posts/12da5a1b.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="gitpage博客图床方法"><a href="#gitpage博客图床方法" class="headerlink" title="gitpage博客图床方法"></a>gitpage博客图床方法</h1><p>由于GitHub单个仓库的大小只有1G。所以，可以使用github新开仓库当作图床</p><p>方案参考链接如下：</p><p><a href="https://zhuanlan.zhihu.com/p/347342082">如何利用 Github 搭建自己的免费图床？</a></p><p>使用到的软件：<a href="https://github.com/Molunerfinn/picgo/releases">PicGo</a></p><p><a href="https://picgo.github.io/PicGo-Doc/zh/guide/#picgo-is-here">PicGo使用文档</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo、gitpage </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>【持续更新】gitpage博客集成应用</title>
       <link href="/posts/ef0aaf19.html"/>
       <url>/posts/ef0aaf19.html</url>
       
-        <content type="html"><![CDATA[<h1 id="GitPage博客集成应用"><a href="#GitPage博客集成应用" class="headerlink" title="GitPage博客集成应用"></a>GitPage博客集成应用</h1><h2 id="0-序言"><a href="#0-序言" class="headerlink" title="0.序言"></a>0.序言</h2><p>在重新拾起博客之后，由于博客是基于GitPage搭建的，日常生活中写博文并推送并不方便，于是有了这个一篇文章。旨在开发一款APP让每一个gitpage的博主能够串联起来，简化博文的发布流程，增加一些自定义的功能。笔者目前计划开发此款APP使用的技术架构为前端Flutter+后端Python</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="GitPage博客集成应用"><a href="#GitPage博客集成应用" class="headerlink" title="GitPage博客集成应用"></a>GitPage博客集成应用</h1><h2 id="0-序言"><a href="#0-序言" class="headerlink" title="0.序言"></a>0.序言</h2><p>在重新拾起博客之后，由于博客是基于GitPage搭建的，日常生活中写博文并推送并不方便，于是有了这个一篇文章。旨在开发一款APP让每一个gitpage的博主能够串联起来，简化博文的发布流程，增加一些自定义的功能。笔者目前计划开发此款APP使用的技术架构为前端Flutter+后端Python</p><h2 id="1-设计"><a href="#1-设计" class="headerlink" title="1.设计"></a>1.设计</h2>]]></content>
       
       
       <categories>
