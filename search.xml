@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>【持续更新】gitpage博客集成应用</title>
+      <link href="/posts/ef0aaf19.html"/>
+      <url>/posts/ef0aaf19.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="GitPage博客集成应用"><a href="#GitPage博客集成应用" class="headerlink" title="GitPage博客集成应用"></a>GitPage博客集成应用</h1><h2 id="0-序言"><a href="#0-序言" class="headerlink" title="0.序言"></a>0.序言</h2><p>在重新拾起博客之后，由于博客是基于GitPage搭建的，日常生活中写博文并推送并不方便，于是有了这个一篇文章。旨在开发一款APP让每一个gitpage的博主能够串联起来，简化博文的发布流程，增加一些自定义的功能。笔者目前计划开发此款APP使用的技术架构为前端Flutter+后端Python</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Flutter </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>日常生活分类例文</title>
       <link href="/posts/6c6b907f.html"/>
       <url>/posts/6c6b907f.html</url>
